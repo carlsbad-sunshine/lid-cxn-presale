@@ -20,7 +20,7 @@ export default function Header({ address, onConnect }) {
           ml="-3px">
           <Image
             src="/logo.png"
-            alt="Novamining Logo"
+            alt="CXN Logo"
             w="auto"
             h="60px"
             display="inline-block"
